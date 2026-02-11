@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Data and Reports
+Report_*.xlsx
+test_inputs/
+*.xlsx
+*.xls
+*.csv
+
+# Environment / Secret
+.env
+api_key.txt
