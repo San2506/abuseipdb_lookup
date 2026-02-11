@@ -19,5 +19,6 @@ api_key.txt
 
 # PyInstaller
 build/
-dist/
+# dist/
+!dist/abuseipdb_bulk_lookup.exe
 *.spec
