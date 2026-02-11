@@ -16,3 +16,8 @@ test_inputs/
 # Environment / Secret
 .env
 api_key.txt
+
+# PyInstaller
+build/
+dist/
+*.spec

@@ -180,6 +180,7 @@ def process_bulk_lookup():
             print(f"  Error saving report for {filename}: {e}")
 
     print("\nBulk lookup completed.")
+    input("\nPress Enter to exit...")
 
 if __name__ == "__main__":
     try:
